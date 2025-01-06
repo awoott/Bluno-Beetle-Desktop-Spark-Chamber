@@ -4,7 +4,7 @@ Code, 3D enclosure files, and parts for a battery powered desktop spark chamber.
 
 Bon voyage, Geoff!
 
-![Spark-chamber](https://giphy.com/gifs/TtpgqgwKoUDc6vwq3b)
+![Spark-chamber]([https://giphy.com/gifs/TtpgqgwKoUDc6vwq3b](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTgyaXViY3ZsMzJjeHFyaTc4cHN5MTE2dXB5b3U2cThhYWQ3Zm45cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TtpgqgwKoUDc6vwq3b/giphy.gif))
 
 ## Parts list
 
